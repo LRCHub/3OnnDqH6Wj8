@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Good Feeling",
   "base_artist": "Flo Rida",
-  "createdAt": "2026-03-19T02:48:26.209387Z",
+  "createdAt": "2026-03-19T07:30:58.902120Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "Flo Rida",
       "has_synced": false,
       "path": "select/pl_01_Good_Feeling_Flo_Rida.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Good Feeling",
+      "artist": "Flo Rida",
+      "has_synced": false,
+      "path": "select/localdb_01_Good_Feeling_Flo_Rida.txt",
+      "repo_name": "3OnnDqH6Wj8"
     }
   ]
 }
