@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Good Feeling",
+  "base_artist": "Flo Rida",
+  "createdAt": "2026-03-19T02:48:26.209387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Feeling",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/01_Good_Feeling_Travis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Feeling - Live At Glastonbury Festival / 1999",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/02_Good_Feeling_-_Live_At_Glastonbury_Festival___1999_Travis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Feeling (Live At Glastonbury Festival \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/03_Good_Feeling_(Live_At_Glastonbury_Festival_\u0000_1999)_Travis.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good Feeling [4-track]",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/04_Good_Feeling_[4-track]_Travis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heavenly... - Good Feeling",
+      "artist": "Seal",
+      "has_synced": true,
+      "path": "select/05_Heavenly..._-_Good_Feeling_Seal.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heavenly (Good Feeling)",
+      "artist": "Seal",
+      "has_synced": true,
+      "path": "select/06_Heavenly_(Good_Feeling)_Seal.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give Good Feeling",
+      "artist": "Take That",
+      "has_synced": true,
+      "path": "select/07_Give_Good_Feeling_Take_That.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Feeling",
+      "artist": "Violent Femmes",
+      "has_synced": false,
+      "path": "select/08_Good_Feeling_Violent_Femmes.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Feeling",
+      "artist": "Violent Femmes",
+      "has_synced": true,
+      "path": "select/09_Good_Feeling_Violent_Femmes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Feeling",
+      "artist": "Flo Rida",
+      "has_synced": true,
+      "path": "select/10_Good_Feeling_Flo_Rida.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Feeling (1957)",
+      "artist": "Three Dog Night",
+      "has_synced": false,
+      "path": "select/11_Good_Feeling_(1957)_Three_Dog_Night.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It's A Real Good Feeling",
+      "artist": "David Hasselhoff",
+      "has_synced": false,
+      "path": "select/12_It's_A_Real_Good_Feeling_David_Hasselhoff.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Good Feeling",
+      "artist": "Flo Rida",
+      "has_synced": true,
+      "path": "select/13_Good_Feeling_Flo_Rida.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Feeling",
+      "artist": "Reef",
+      "has_synced": false,
+      "path": "select/14_Good_Feeling_Reef.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Feeling - Live",
+      "artist": "Guster",
+      "has_synced": true,
+      "path": "select/15_Good_Feeling_-_Live_Guster.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Feeling",
+      "artist": "Flo Rida",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Feeling_Flo_Rida.txt"
+    }
+  ]
+}
